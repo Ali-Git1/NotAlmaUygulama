@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|c:\\users\\elvin\\source\\repos\\notalmauygulamasi\\notalmauygulamasi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|solutionrelative:notalmauygulamasi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|c:\\users\\elvin\\source\\repos\\notalmauygulamasi\\notalmauygulamasi\\views\\notes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|solutionrelative:notalmauygulamasi\\views\\notes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|c:\\users\\elvin\\source\\repos\\notalmauygulamasi\\notalmauygulamasi\\views\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|solutionrelative:notalmauygulamasi\\views\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|c:\\users\\elvin\\source\\repos\\notalmauygulamasi\\notalmauygulamasi\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|solutionrelative:notalmauygulamasi\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|c:\\users\\elvin\\source\\repos\\notalmauygulamasi\\notalmauygulamasi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|solutionrelative:notalmauygulamasi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|c:\\users\\elvin\\source\\repos\\notalmauygulamasi\\notalmauygulamasi\\migrations\\20241013135512_initialcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|solutionrelative:notalmauygulamasi\\migrations\\20241013135512_initialcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|c:\\users\\elvin\\source\\repos\\notalmauygulamasi\\notalmauygulamasi\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|solutionrelative:notalmauygulamasi\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|c:\\users\\elvin\\source\\repos\\notalmauygulamasi\\notalmauygulamasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|solutionrelative:notalmauygulamasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|c:\\users\\elvin\\source\\repos\\notalmauygulamasi\\notalmauygulamasi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|solutionrelative:notalmauygulamasi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|c:\\users\\elvin\\source\\repos\\notalmauygulamasi\\notalmauygulamasi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|solutionrelative:notalmauygulamasi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|c:\\users\\elvin\\source\\repos\\notalmauygulamasi\\notalmauygulamasi\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467E30FA-1A7B-49BA-BD2F-A3D2E6E5B762}|NotAlmaUygulamasi\\NotAlmaUygulamasi.csproj|solutionrelative:notalmauygulamasi\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NotAlmaUygulamasi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NotAlmaUygulamasi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T14:01:24.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "NotAlmaUygulamasi\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "NotAlmaUygulamasi\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-13T14:00:16.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241013135512_InitialCreated.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\Migrations\\20241013135512_InitialCreated.cs",
+              "RelativeDocumentMoniker": "NotAlmaUygulamasi\\Migrations\\20241013135512_InitialCreated.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\Migrations\\20241013135512_InitialCreated.cs",
+              "RelativeToolTip": "NotAlmaUygulamasi\\Migrations\\20241013135512_InitialCreated.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:55:13.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\Views\\Notes\\Create.cshtml",
+              "RelativeDocumentMoniker": "NotAlmaUygulamasi\\Views\\Notes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\Views\\Notes\\Create.cshtml",
+              "RelativeToolTip": "NotAlmaUygulamasi\\Views\\Notes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T13:53:53.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\Views\\Notes\\Index.cshtml",
+              "RelativeDocumentMoniker": "NotAlmaUygulamasi\\Views\\Notes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\Views\\Notes\\Index.cshtml",
+              "RelativeToolTip": "NotAlmaUygulamasi\\Views\\Notes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T13:53:23.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "NotAlmaUygulamasi\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "NotAlmaUygulamasi\\Controllers\\NotesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:52:27.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\Program.cs",
+              "RelativeDocumentMoniker": "NotAlmaUygulamasi\\Program.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\Program.cs",
+              "RelativeToolTip": "NotAlmaUygulamasi\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:34:30.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\appsettings.json",
+              "RelativeDocumentMoniker": "NotAlmaUygulamasi\\appsettings.json",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\appsettings.json",
+              "RelativeToolTip": "NotAlmaUygulamasi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T13:31:06.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "NotAlmaUygulamasi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\appsettings.Development.json",
+              "RelativeToolTip": "NotAlmaUygulamasi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T13:31:11.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "NotAlmaUygulamasi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "NotAlmaUygulamasi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:30:23.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "NotAlmaUygulamasi\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\NotAlmaUygulamasi\\NotAlmaUygulamasi\\Models\\Note.cs",
+              "RelativeToolTip": "NotAlmaUygulamasi\\Models\\Note.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:29:12.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

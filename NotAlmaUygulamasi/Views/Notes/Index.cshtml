@@ -1,0 +1,15 @@
+﻿@model IEnumerable<NotAlmaUygulamasi.Models.Note>
+
+<div class="container">
+    <h2>Notlar</h2>
+    <a href="/Notes/Create" class="btn btn-primary">Yeni Not Ekle</a>
+    <ul class="note-list">
+        @foreach (var note in Model)
+        {
+            <li>
+                <strong>@note.Title</strong> - @note.CreatedAt.ToString("g")
+                <p>@note.Content</p>
+            </li>
+        }
+    </ul>
+</div>
